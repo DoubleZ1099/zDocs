@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkz_blog=self.webpackChunkz_blog||[]).push([[8240],{1308:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/REPO/blog/tags/hello","allTagsPath":"/REPO/blog/tags","count":2,"unlisted":false}')}}]);
