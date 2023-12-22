@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkz_blog=self.webpackChunkz_blog||[]).push([[6423],{4952:e=>{e.exports=JSON.parse('{"permalink":"/REPO/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

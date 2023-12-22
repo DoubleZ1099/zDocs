@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkz_blog=self.webpackChunkz_blog||[]).push([[9199],{6165:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/zDocs.github.io/blog/tags/docusaurus","allTagsPath":"/zDocs.github.io/blog/tags","count":4,"unlisted":false}')}}]);

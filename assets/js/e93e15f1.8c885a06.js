@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkz_blog=self.webpackChunkz_blog||[]).push([[4162],{8658:o=>{o.exports=JSON.parse('{"permalink":"/zDocs.github.io/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
